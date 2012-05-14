@@ -11,5 +11,6 @@ compile with:
 hints:
 
 	i2c pullup resitor are required for i2c-2 (pin 17 and 18)
+
 	
-	address pin of the tmp102 device must connected to ground or to vcc , do not let it float  
+	address pin of the tmp102 device must be connected to ground or to vcc  
